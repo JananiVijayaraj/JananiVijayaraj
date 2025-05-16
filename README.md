@@ -3,7 +3,7 @@ I’m a passionate MERN Stack Developer with a solid foundation in MongoDB, Expr
 
 
 ## 🌐 Socials:
-linkedin.com/in/janani-vijayaraj-4340aa206
+[linkedin.com/in/janani-vijayaraj-4340aa206](https://www.linkedin.com/in/janani-vijayaraj-4340aa206?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBcQkHKswShiCEU6cckafmQ%3D%3D)
 
 
 # 💻 Tech Stack:
